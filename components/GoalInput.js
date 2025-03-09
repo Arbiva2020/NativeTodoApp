@@ -57,6 +57,7 @@ const styles = StyleSheet.create({
     // borderBottomWidth: 1,
     // borderBottomColor: "#cccccc",
     padding: 16,
+    marginBottom: 20,
   },
   image: {
     height: 200,
@@ -74,7 +75,7 @@ const styles = StyleSheet.create({
   },
   buttonContainer: {
     flexDirection: "row",
-    marginTop: 8,
+    marginTop: 20,
   },
   button: {
     width: "30%",
